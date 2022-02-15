@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "391788863143",
+    "firebase_url": "https://swatchhbharat-963c2-default-rtdb.firebaseio.com",
+    "project_id": "swatchhbharat-963c2",
+    "storage_bucket": "swatchhbharat-963c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391788863143:android:091483e7690aca7dec0582",
+        "android_client_info": {
+          "package_name": "com.example.fac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391788863143-na7156htdr68omlu32hs6tjbsha51inf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdLz47CMLSLz4xDDGSiFZM4Htcj0oCpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391788863143-na7156htdr68omlu32hs6tjbsha51inf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391788863143:android:b50f711ad6f8fcb3ec0582",
+        "android_client_info": {
+          "package_name": "com.example.fightagainstcrime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391788863143-qgd4fs46f87n9bilq43rg9i5hjllvoj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fightagainstcrime",
+            "certificate_hash": "d82b81bd0d0564ddcdb5a2345dbbee19df6f6e43"
+          }
+        },
+        {
+          "client_id": "391788863143-na7156htdr68omlu32hs6tjbsha51inf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdLz47CMLSLz4xDDGSiFZM4Htcj0oCpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391788863143-na7156htdr68omlu32hs6tjbsha51inf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391788863143:android:834915fc0e42f6b1ec0582",
+        "android_client_info": {
+          "package_name": "com.example.swatchbharat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391788863143-ls6ke05ghpmrhe0gbtgbnijsdgpfaush.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swatchbharat",
+            "certificate_hash": "d82b81bd0d0564ddcdb5a2345dbbee19df6f6e43"
+          }
+        },
+        {
+          "client_id": "391788863143-na7156htdr68omlu32hs6tjbsha51inf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdLz47CMLSLz4xDDGSiFZM4Htcj0oCpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391788863143-na7156htdr68omlu32hs6tjbsha51inf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

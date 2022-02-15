@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FightAgainstCrime/app/src/main/res/layout/single_video_row.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/drawable-v24/border_right.xml" value="0.2484375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/drawable-v24/ic_baseline_favorite_24.xml" value="0.2484375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/drawable-v24/ic_baseline_supervised_user_circle_24.xml" value="0.2484375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/drawable/add.xml" value="0.2484375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/drawable/user.xml" value="0.2484375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_addvideo.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_commentpanel.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_otp_send.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_otp_verify.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/activity_update_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/single_video_row.xml" value="0.2640615748963884" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/layout/splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/menu/appmenu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FightAgainstCrime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
